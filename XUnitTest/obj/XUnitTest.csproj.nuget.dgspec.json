@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\CalculadoraIMC\\XUnitTest\\XUnitTest.csproj": {}
+    "G:\\CalculadoraIMC\\XUnitTest\\XUnitTest.csproj": {}
   },
   "projects": {
-    "F:\\CalculadoraIMC\\CalculadoraIMC\\CalculadoraIMC.csproj": {
+    "G:\\CalculadoraIMC\\CalculadoraIMC\\CalculadoraIMC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\CalculadoraIMC\\CalculadoraIMC\\CalculadoraIMC.csproj",
+        "projectUniqueName": "G:\\CalculadoraIMC\\CalculadoraIMC\\CalculadoraIMC.csproj",
         "projectName": "CalculadoraIMC",
-        "projectPath": "F:\\CalculadoraIMC\\CalculadoraIMC\\CalculadoraIMC.csproj",
-        "packagesPath": "C:\\Users\\22299\\.nuget\\packages\\",
-        "outputPath": "F:\\CalculadoraIMC\\CalculadoraIMC\\obj\\",
+        "projectPath": "G:\\CalculadoraIMC\\CalculadoraIMC\\CalculadoraIMC.csproj",
+        "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
+        "outputPath": "G:\\CalculadoraIMC\\CalculadoraIMC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\22299\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -55,20 +55,8 @@
           "warn": true,
           "downloadDependencies": [
             {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.15, 5.0.15]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
+              "version": "[5.0.14, 5.0.14]"
             }
           ],
           "frameworkReferences": {
@@ -76,24 +64,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\CalculadoraIMC\\XUnitTest\\XUnitTest.csproj": {
+    "G:\\CalculadoraIMC\\XUnitTest\\XUnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\CalculadoraIMC\\XUnitTest\\XUnitTest.csproj",
+        "projectUniqueName": "G:\\CalculadoraIMC\\XUnitTest\\XUnitTest.csproj",
         "projectName": "XUnitTest",
-        "projectPath": "F:\\CalculadoraIMC\\XUnitTest\\XUnitTest.csproj",
-        "packagesPath": "C:\\Users\\22299\\.nuget\\packages\\",
-        "outputPath": "F:\\CalculadoraIMC\\XUnitTest\\obj\\",
+        "projectPath": "G:\\CalculadoraIMC\\XUnitTest\\XUnitTest.csproj",
+        "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
+        "outputPath": "G:\\CalculadoraIMC\\XUnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\22299\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -108,8 +96,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\CalculadoraIMC\\CalculadoraIMC\\CalculadoraIMC.csproj": {
-                "projectPath": "F:\\CalculadoraIMC\\CalculadoraIMC\\CalculadoraIMC.csproj"
+              "G:\\CalculadoraIMC\\CalculadoraIMC\\CalculadoraIMC.csproj": {
+                "projectPath": "G:\\CalculadoraIMC\\CalculadoraIMC\\CalculadoraIMC.csproj"
               }
             }
           }
@@ -155,26 +143,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

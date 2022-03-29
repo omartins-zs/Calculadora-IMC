@@ -1,13 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cYR4A/CiMrszmpOb31H2Pp7m4uimkcMga7zeLjUFr9tX7B02ASYFty4BiQOjhkhBxqPzrDAYL4F6DWMziBYGTQ==",
+  "dgSpecHash": "QcAnFinPa5Jqah1mdI2HPfPtdteloyFhGZRJextZZCuxXYS2IirBeKFRygHEWz1avxD7CJlGAnDZ2PFrKKSUjw==",
   "success": true,
-  "projectFilePath": "F:\\CalculadoraIMC\\CalculadoraIMC\\CalculadoraIMC.csproj",
+  "projectFilePath": "G:\\CalculadoraIMC\\CalculadoraIMC\\CalculadoraIMC.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\22299\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512",
-    "C:\\Users\\22299\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\22299\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\22299\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
   ],
   "logs": []
 }
